@@ -9,7 +9,7 @@ import Icon4 from '../assets/icon4.png'
 
 const Benefits = () => {
   return (
-    <div className='mx-sectionMarginX mt-sectionTopMargin md:px-sectionPaddingX md:py-sectionPaddingY flex flex-col md:flex-row md:justify-center items-center gap-8'>
+    <div className='mx-sectionMarginX md:px-sectionPaddingX py-sectionPaddingY flex flex-col md:flex-row md:justify-center items-center gap-8'>
       <div className='max-w-[300px] bg-[#F7F7FD] p-6 flex flex-col items-start gap-4 rounded'>
         <h2 className='text-2xl font-bold'>The new way to find your new home.</h2>
         <p>Find your dream place to live in with more than 10k+ properties listed</p>
